@@ -1,0 +1,24 @@
+{
+  "name": "social-anxiety",
+  "version": "1.0.0",
+  "description": "Mod 18 Challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brentb5280/social--network"
+  },
+  "keywords": [],
+  "author": "https://github.com/brentb5280/social--network",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentb5280/social--network"
+  },
+  "homepage": "https://github.com/brentb5280/social--network",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
